@@ -1,0 +1,23 @@
+type="text/css"
+*{
+padding:opx;
+margin:opx;
+}
+
+header{
+margin:auto;
+width:500px;
+font-family:arial;
+}
+
+dody{
+blackgroud-image:url(C:\Users\chl\Desktop\pagina web\imagenes/c.jpg);
+
+}
+
+h1{
+font-family:arial;
+
+color: red;
+
+}
